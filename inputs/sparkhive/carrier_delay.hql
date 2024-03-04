@@ -1,0 +1,1 @@
+LOAD DATA INPATH 's3://bigdataproject-bucket/project/DelayedFlights-updated.csv' INTO TABLE delay_flights;
